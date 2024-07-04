@@ -1,0 +1,28 @@
+body{
+	background-color: orange;
+}
+p{
+	font-size: 50px;
+	background-color: orange;
+	color: darkred;
+}
+label{
+	font-size: 24px;
+	color: darkred;
+}
+.in1{
+	height: 50px;
+	width: 240px;
+	font-size: 24px;
+	color: blueviolet;
+}
+.btn{
+	font-size: 24;
+	padding: 3px;
+	color: violet;
+	background: white;
+}
+.btn:hover{
+	background-color: darkred;
+	color: initial;
+}
